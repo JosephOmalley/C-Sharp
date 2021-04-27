@@ -1,0 +1,7 @@
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\CompareIncome\CompareIncome\bin\Debug\CompareIncome.exe.config
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\CompareIncome\CompareIncome\bin\Debug\CompareIncome.exe
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\CompareIncome\CompareIncome\bin\Debug\CompareIncome.pdb
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\CompareIncome\CompareIncome\obj\Debug\CompareIncome.csprojAssemblyReference.cache
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\CompareIncome\CompareIncome\obj\Debug\CompareIncome.csproj.CoreCompileInputs.cache
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\CompareIncome\CompareIncome\obj\Debug\CompareIncome.exe
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\CompareIncome\CompareIncome\obj\Debug\CompareIncome.pdb
