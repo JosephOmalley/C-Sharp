@@ -1,0 +1,7 @@
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\Daily_Report_Demo\Daily_Report_Demo\bin\Debug\Daily_Report_Demo.exe.config
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\Daily_Report_Demo\Daily_Report_Demo\bin\Debug\Daily_Report_Demo.exe
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\Daily_Report_Demo\Daily_Report_Demo\bin\Debug\Daily_Report_Demo.pdb
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\Daily_Report_Demo\Daily_Report_Demo\obj\Debug\Daily_Report_Demo.csprojAssemblyReference.cache
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\Daily_Report_Demo\Daily_Report_Demo\obj\Debug\Daily_Report_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\Daily_Report_Demo\Daily_Report_Demo\obj\Debug\Daily_Report_Demo.exe
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\Daily_Report_Demo\Daily_Report_Demo\obj\Debug\Daily_Report_Demo.pdb
