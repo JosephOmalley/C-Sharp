@@ -1,0 +1,7 @@
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\DemoSwitchStatements\DemoSwitchStatements\bin\Debug\DemoSwitchStatements.exe.config
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\DemoSwitchStatements\DemoSwitchStatements\bin\Debug\DemoSwitchStatements.exe
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\DemoSwitchStatements\DemoSwitchStatements\bin\Debug\DemoSwitchStatements.pdb
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\DemoSwitchStatements\DemoSwitchStatements\obj\Debug\DemoSwitchStatements.csprojAssemblyReference.cache
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\DemoSwitchStatements\DemoSwitchStatements\obj\Debug\DemoSwitchStatements.csproj.CoreCompileInputs.cache
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\DemoSwitchStatements\DemoSwitchStatements\obj\Debug\DemoSwitchStatements.exe
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\DemoSwitchStatements\DemoSwitchStatements\obj\Debug\DemoSwitchStatements.pdb
