@@ -1,0 +1,7 @@
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\cSharp_Demo\cSharp_Demo\bin\Debug\cSharp_Demo.exe.config
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\cSharp_Demo\cSharp_Demo\bin\Debug\cSharp_Demo.exe
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\cSharp_Demo\cSharp_Demo\bin\Debug\cSharp_Demo.pdb
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\cSharp_Demo\cSharp_Demo\obj\Debug\cSharp_Demo.csprojAssemblyReference.cache
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\cSharp_Demo\cSharp_Demo\obj\Debug\cSharp_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\cSharp_Demo\cSharp_Demo\obj\Debug\cSharp_Demo.exe
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\cSharp_Demo\cSharp_Demo\obj\Debug\cSharp_Demo.pdb
