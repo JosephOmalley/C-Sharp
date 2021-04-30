@@ -1,0 +1,7 @@
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\Array project\Array project\bin\Debug\Array project.exe.config
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\Array project\Array project\bin\Debug\Array project.exe
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\Array project\Array project\bin\Debug\Array project.pdb
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\Array project\Array project\obj\Debug\Array project.csprojAssemblyReference.cache
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\Array project\Array project\obj\Debug\Array project.csproj.CoreCompileInputs.cache
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\Array project\Array project\obj\Debug\Array project.exe
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\Array project\Array project\obj\Debug\Array project.pdb
