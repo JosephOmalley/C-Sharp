@@ -1,0 +1,7 @@
+C:\Users\Josep\source\repos\BlindWriteConsoleApp\BlindWriteConsoleApp\obj\Debug\BlindWriteConsoleApp.csprojAssemblyReference.cache
+C:\Users\Josep\source\repos\BlindWriteConsoleApp\BlindWriteConsoleApp\obj\Debug\BlindWriteConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Josep\source\repos\BlindWriteConsoleApp\BlindWriteConsoleApp\bin\Debug\BlindWriteConsoleApp.exe.config
+C:\Users\Josep\source\repos\BlindWriteConsoleApp\BlindWriteConsoleApp\bin\Debug\BlindWriteConsoleApp.exe
+C:\Users\Josep\source\repos\BlindWriteConsoleApp\BlindWriteConsoleApp\bin\Debug\BlindWriteConsoleApp.pdb
+C:\Users\Josep\source\repos\BlindWriteConsoleApp\BlindWriteConsoleApp\obj\Debug\BlindWriteConsoleApp.exe
+C:\Users\Josep\source\repos\BlindWriteConsoleApp\BlindWriteConsoleApp\obj\Debug\BlindWriteConsoleApp.pdb
