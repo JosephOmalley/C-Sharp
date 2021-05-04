@@ -1,0 +1,7 @@
+C:\Users\Josep\source\repos\MethodCalling_assignment\MethodCalling_assignment\bin\Debug\MethodCalling_assignment.exe.config
+C:\Users\Josep\source\repos\MethodCalling_assignment\MethodCalling_assignment\bin\Debug\MethodCalling_assignment.exe
+C:\Users\Josep\source\repos\MethodCalling_assignment\MethodCalling_assignment\bin\Debug\MethodCalling_assignment.pdb
+C:\Users\Josep\source\repos\MethodCalling_assignment\MethodCalling_assignment\obj\Debug\MethodCalling_assignment.csprojAssemblyReference.cache
+C:\Users\Josep\source\repos\MethodCalling_assignment\MethodCalling_assignment\obj\Debug\MethodCalling_assignment.csproj.CoreCompileInputs.cache
+C:\Users\Josep\source\repos\MethodCalling_assignment\MethodCalling_assignment\obj\Debug\MethodCalling_assignment.exe
+C:\Users\Josep\source\repos\MethodCalling_assignment\MethodCalling_assignment\obj\Debug\MethodCalling_assignment.pdb
