@@ -1,0 +1,7 @@
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\OptionalParaAssignment\OptionalParaAssignment\bin\Debug\OptionalParaAssignment.exe.config
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\OptionalParaAssignment\OptionalParaAssignment\bin\Debug\OptionalParaAssignment.exe
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\OptionalParaAssignment\OptionalParaAssignment\bin\Debug\OptionalParaAssignment.pdb
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\OptionalParaAssignment\OptionalParaAssignment\obj\Debug\OptionalParaAssignment.csprojAssemblyReference.cache
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\OptionalParaAssignment\OptionalParaAssignment\obj\Debug\OptionalParaAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\OptionalParaAssignment\OptionalParaAssignment\obj\Debug\OptionalParaAssignment.exe
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\OptionalParaAssignment\OptionalParaAssignment\obj\Debug\OptionalParaAssignment.pdb
