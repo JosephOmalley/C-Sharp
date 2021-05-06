@@ -1,0 +1,7 @@
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\Methods_And_Objects_Assignment\Methods_And_Objects_Assignment\bin\Debug\Methods_And_Objects_Assignment.exe.config
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\Methods_And_Objects_Assignment\Methods_And_Objects_Assignment\bin\Debug\Methods_And_Objects_Assignment.exe
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\Methods_And_Objects_Assignment\Methods_And_Objects_Assignment\bin\Debug\Methods_And_Objects_Assignment.pdb
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\Methods_And_Objects_Assignment\Methods_And_Objects_Assignment\obj\Debug\Methods_And_Objects_Assignment.csprojAssemblyReference.cache
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\Methods_And_Objects_Assignment\Methods_And_Objects_Assignment\obj\Debug\Methods_And_Objects_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\Methods_And_Objects_Assignment\Methods_And_Objects_Assignment\obj\Debug\Methods_And_Objects_Assignment.exe
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\Methods_And_Objects_Assignment\Methods_And_Objects_Assignment\obj\Debug\Methods_And_Objects_Assignment.pdb
