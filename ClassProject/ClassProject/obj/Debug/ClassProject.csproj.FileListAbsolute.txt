@@ -1,0 +1,7 @@
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\ClassProject\ClassProject\bin\Debug\ClassProject.exe.config
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\ClassProject\ClassProject\bin\Debug\ClassProject.exe
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\ClassProject\ClassProject\bin\Debug\ClassProject.pdb
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\ClassProject\ClassProject\obj\Debug\ClassProject.csprojAssemblyReference.cache
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\ClassProject\ClassProject\obj\Debug\ClassProject.csproj.CoreCompileInputs.cache
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\ClassProject\ClassProject\obj\Debug\ClassProject.exe
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\ClassProject\ClassProject\obj\Debug\ClassProject.pdb
