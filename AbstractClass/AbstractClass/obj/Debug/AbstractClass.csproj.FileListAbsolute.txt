@@ -1,0 +1,7 @@
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csprojAssemblyReference.cache
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb
