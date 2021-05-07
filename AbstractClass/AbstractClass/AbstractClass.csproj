@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="AbsCls1.cs" />
     <Compile Include="Emp.cs" />
+    <Compile Include="IQuittable.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
