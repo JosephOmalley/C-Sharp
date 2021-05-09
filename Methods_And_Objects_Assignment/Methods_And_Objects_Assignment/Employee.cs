@@ -8,8 +8,14 @@ namespace Methods_And_Objects_Assignment
 {
     public class Employee : Person
     {
-        public int EmpId { get; set; }
-
         
+        public static  bool operator ==(Employee person, Employee person2)
+        {
+            return Convert.ToInt32(person) == Convert.ToInt32(person2);
+        }
+        public static bool operator !=(Employee person, Employee person2)
+        {
+            return Convert.ToInt32(person) != Convert.ToInt32(person2);
+        }
     }
 }
