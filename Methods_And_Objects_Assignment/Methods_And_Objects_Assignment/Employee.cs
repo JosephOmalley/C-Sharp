@@ -8,14 +8,16 @@ namespace Methods_And_Objects_Assignment
 {
     public class Employee : Person
     {
-        
-        public static  bool operator ==(Employee person, Employee person2)
+        public int Id { get; set; }//instatiate Employee class int property Id
+
+        public static bool operator ==(Employee emp1, Employee emp2)//this overload the boolean operator == so that it can handle the datatypes  
         {
-            return Convert.ToInt32(person) == Convert.ToInt32(person2);
+            return emp1.Id == emp2.Id;
         }
-        public static bool operator !=(Employee person, Employee person2)
+        public static bool operator !=(Employee emp1, Employee emp2)//deals with the inverse of ==
         {
-            return Convert.ToInt32(person) != Convert.ToInt32(person2);
+            return emp1.Id != emp2.Id;
         }
     }
 }
+

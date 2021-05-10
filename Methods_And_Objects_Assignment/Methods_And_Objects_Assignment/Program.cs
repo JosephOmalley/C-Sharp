@@ -10,17 +10,18 @@ namespace Methods_And_Objects_Assignment
     {
         static void Main(string[] args)
         {
+            Employee emp1 = new Employee//intializes the Id property with 5
+            {
+                Id = 5
+            };
+            Employee emp2 = new Employee//intializes the Id property with 5
+            {
+                Id = 5
+            };
 
-            Employee person = new Employee(); //instatiates the object employee from the Employee class (Empyloyee class directly inherites person) object called person
-            person.Name = "Bill"; //intialize Name will Bill
-            person.Lname = "Smith";//intialize Lname will Smith
-            person.SayName();//when this superclass method SayName is called in the context of the the object it pass the objects values  
-            int person1 = 1;
-            int person2 = 2;
-            Console.WriteLine("Is the id repeated?");
-            Console.WriteLine(person1 == person2);
-
-            Console.ReadLine();
+            Console.WriteLine(emp1 == emp2);//calls overloaded == operator
+            Console.Read();
+            
 
         }
     }
