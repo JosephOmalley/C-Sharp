@@ -1,0 +1,7 @@
+C:\Users\Josep\source\repos\Days_of_week_Parsing_enums\Days_of_week_Parsing_enums\bin\Debug\Days_of_week_Parsing_enums.exe.config
+C:\Users\Josep\source\repos\Days_of_week_Parsing_enums\Days_of_week_Parsing_enums\bin\Debug\Days_of_week_Parsing_enums.exe
+C:\Users\Josep\source\repos\Days_of_week_Parsing_enums\Days_of_week_Parsing_enums\bin\Debug\Days_of_week_Parsing_enums.pdb
+C:\Users\Josep\source\repos\Days_of_week_Parsing_enums\Days_of_week_Parsing_enums\obj\Debug\Days_of_week_Parsing_enums.csprojAssemblyReference.cache
+C:\Users\Josep\source\repos\Days_of_week_Parsing_enums\Days_of_week_Parsing_enums\obj\Debug\Days_of_week_Parsing_enums.csproj.CoreCompileInputs.cache
+C:\Users\Josep\source\repos\Days_of_week_Parsing_enums\Days_of_week_Parsing_enums\obj\Debug\Days_of_week_Parsing_enums.exe
+C:\Users\Josep\source\repos\Days_of_week_Parsing_enums\Days_of_week_Parsing_enums\obj\Debug\Days_of_week_Parsing_enums.pdb
