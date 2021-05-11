@@ -1,0 +1,7 @@
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\Struct_assignment\Struct_assignment\bin\Debug\Struct_assignment.exe.config
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\Struct_assignment\Struct_assignment\bin\Debug\Struct_assignment.exe
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\Struct_assignment\Struct_assignment\bin\Debug\Struct_assignment.pdb
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\Struct_assignment\Struct_assignment\obj\Debug\Struct_assignment.csprojAssemblyReference.cache
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\Struct_assignment\Struct_assignment\obj\Debug\Struct_assignment.csproj.CoreCompileInputs.cache
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\Struct_assignment\Struct_assignment\obj\Debug\Struct_assignment.exe
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\Struct_assignment\Struct_assignment\obj\Debug\Struct_assignment.pdb
