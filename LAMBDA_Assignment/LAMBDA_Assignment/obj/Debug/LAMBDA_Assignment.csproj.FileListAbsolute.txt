@@ -1,0 +1,7 @@
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\LAMBDA_Assignment\LAMBDA_Assignment\bin\Debug\LAMBDA_Assignment.exe.config
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\LAMBDA_Assignment\LAMBDA_Assignment\bin\Debug\LAMBDA_Assignment.exe
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\LAMBDA_Assignment\LAMBDA_Assignment\bin\Debug\LAMBDA_Assignment.pdb
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\LAMBDA_Assignment\LAMBDA_Assignment\obj\Debug\LAMBDA_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\LAMBDA_Assignment\LAMBDA_Assignment\obj\Debug\LAMBDA_Assignment.exe
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\LAMBDA_Assignment\LAMBDA_Assignment\obj\Debug\LAMBDA_Assignment.pdb
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\LAMBDA_Assignment\LAMBDA_Assignment\obj\Debug\LAMBDA_Assignment.csprojAssemblyReference.cache
