@@ -1,0 +1,7 @@
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\TRYCatchAssignment\TRYCatchAssignment\bin\Debug\TRYCatchAssignment.exe.config
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\TRYCatchAssignment\TRYCatchAssignment\bin\Debug\TRYCatchAssignment.exe
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\TRYCatchAssignment\TRYCatchAssignment\bin\Debug\TRYCatchAssignment.pdb
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\TRYCatchAssignment\TRYCatchAssignment\obj\Debug\TRYCatchAssignment.csprojAssemblyReference.cache
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\TRYCatchAssignment\TRYCatchAssignment\obj\Debug\TRYCatchAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\TRYCatchAssignment\TRYCatchAssignment\obj\Debug\TRYCatchAssignment.exe
+C:\Users\Josep\Documents\GitHub\C-Sharp-fundementals\TRYCatchAssignment\TRYCatchAssignment\obj\Debug\TRYCatchAssignment.pdb
