@@ -55,7 +55,7 @@ namespace CarInsurance.Controllers
                 {
                     if (DateTime.Now.Month <= insurees.DateOfBirth.Month) //checks to see if insuree on their 19th year and if their upcoming birthd month has already happened 
                     {
-                        if (DateTime.Now.Month == insurees.DateOfBirth.Month && DateTime.Now.Day > insurees.DateOfBirth.Day) //checks if day of birth hasn't already happened 
+                        if (DateTime.Now.Month == insurees.DateOfBirth.Month && DateTime.Now.Day >= insurees.DateOfBirth.Day) //checks if day of birth hasn't already happened 
                         {
                             insurees.Quote += 100.00m;
                         }
