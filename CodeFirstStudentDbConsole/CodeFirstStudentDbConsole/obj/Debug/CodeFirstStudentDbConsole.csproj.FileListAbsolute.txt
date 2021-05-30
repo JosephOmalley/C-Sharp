@@ -1,0 +1,12 @@
+C:\Users\Josep\source\repos\CodeFirstStudentDbConsole\CodeFirstStudentDbConsole\bin\Debug\CodeFirstStudentDbConsole.exe.config
+C:\Users\Josep\source\repos\CodeFirstStudentDbConsole\CodeFirstStudentDbConsole\bin\Debug\CodeFirstStudentDbConsole.exe
+C:\Users\Josep\source\repos\CodeFirstStudentDbConsole\CodeFirstStudentDbConsole\bin\Debug\CodeFirstStudentDbConsole.pdb
+C:\Users\Josep\source\repos\CodeFirstStudentDbConsole\CodeFirstStudentDbConsole\bin\Debug\EntityFramework.dll
+C:\Users\Josep\source\repos\CodeFirstStudentDbConsole\CodeFirstStudentDbConsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Josep\source\repos\CodeFirstStudentDbConsole\CodeFirstStudentDbConsole\bin\Debug\EntityFramework.xml
+C:\Users\Josep\source\repos\CodeFirstStudentDbConsole\CodeFirstStudentDbConsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Josep\source\repos\CodeFirstStudentDbConsole\CodeFirstStudentDbConsole\obj\Debug\CodeFirstStudentDbConsole.csprojAssemblyReference.cache
+C:\Users\Josep\source\repos\CodeFirstStudentDbConsole\CodeFirstStudentDbConsole\obj\Debug\CodeFirstStudentDbConsole.csproj.CoreCompileInputs.cache
+C:\Users\Josep\source\repos\CodeFirstStudentDbConsole\CodeFirstStudentDbConsole\obj\Debug\CodeFirstStudentDbConsole.csproj.CopyComplete
+C:\Users\Josep\source\repos\CodeFirstStudentDbConsole\CodeFirstStudentDbConsole\obj\Debug\CodeFirstStudentDbConsole.exe
+C:\Users\Josep\source\repos\CodeFirstStudentDbConsole\CodeFirstStudentDbConsole\obj\Debug\CodeFirstStudentDbConsole.pdb
