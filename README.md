@@ -1,15 +1,15 @@
 # C-Sharp-fundementals
 This is the home for my C-sharp fundementals project 
-##Top three projects
+## Top three projects
 
-###Car insurance 
+### Car insurance 
 
 This is a MVC application that uses a form to give a car insurance quote. This also includes an admin page! 
-###Newsletter
+### Newsletter
 
 This is a basic MVC CRUD application that uses entity framework, and showcases the MVC architecture. 
 
-###Blackjack
+### Blackjack
 
 This console application allows the user to play TwentyOne without even touching a card.
 Let the app take your name and then play!
