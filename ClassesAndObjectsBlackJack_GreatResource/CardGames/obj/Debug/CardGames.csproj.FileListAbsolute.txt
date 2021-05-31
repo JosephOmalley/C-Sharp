@@ -1,0 +1,6 @@
+C:\Users\Josep\source\repos\ClassesAndObjectsBlackJack_GreatResource\CardGames\bin\Debug\CardGames.dll
+C:\Users\Josep\source\repos\ClassesAndObjectsBlackJack_GreatResource\CardGames\bin\Debug\CardGames.pdb
+C:\Users\Josep\source\repos\ClassesAndObjectsBlackJack_GreatResource\CardGames\obj\Debug\CardGames.csprojAssemblyReference.cache
+C:\Users\Josep\source\repos\ClassesAndObjectsBlackJack_GreatResource\CardGames\obj\Debug\CardGames.csproj.CoreCompileInputs.cache
+C:\Users\Josep\source\repos\ClassesAndObjectsBlackJack_GreatResource\CardGames\obj\Debug\CardGames.dll
+C:\Users\Josep\source\repos\ClassesAndObjectsBlackJack_GreatResource\CardGames\obj\Debug\CardGames.pdb
