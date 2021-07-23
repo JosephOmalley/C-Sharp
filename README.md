@@ -16,6 +16,6 @@ Let the app take your name and then play!
 
 It shows:
 Error handling
-progrow flow
+program flow
 OOP Concepts like encapsulation, abstraction, inheritance, and polymorphism.
 
