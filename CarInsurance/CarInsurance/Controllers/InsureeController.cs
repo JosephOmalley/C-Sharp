@@ -92,7 +92,7 @@ namespace CarInsurance.Controllers
                 {
                     insurees.Quote += 25;
                 }
-                if (insurees.CarMake.ToLower() == "porsche" && insurees.CarModel.ToLower() == "911 carrera")
+                else if (insurees.CarMake.ToLower() == "porsche" && insurees.CarModel.ToLower() == "911 carrera")
                 {
                     insurees.Quote += 25;
                 }
